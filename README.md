@@ -1,4 +1,9 @@
 # InvestmentGame-Mathematica-
+(*Analyze statistical data such as expected values, standard deviation, and histogram trends to optimize     gambling algorithm
+Consists of a dynamic betting strategy that changes based on buying power at any given time*)
+
+
+
 initializeMoney := (totalMoney = 10);
 
 returnedMoney[w_] := 
